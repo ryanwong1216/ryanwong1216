@@ -1,5 +1,2 @@
-abcd
-<!---
-ryanwong1216/ryanwong1216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello. My name is Ryan. I was born in Hong Kong and have lived here my whole life.
+Full self introduction is in this repository.
